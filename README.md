@@ -1,8 +1,8 @@
 Olá!! Eu sou o Jhonatan
 
 - 💻 Atualmente trabalho com front-end
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estudo constantemente as téclogias: HTML, CSS e JS
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas 1/6
+- 📚 Tenho conhecimento nas téclogias: HTML, CSS e JS
 
 <div align="center">
   <a href="https://github.com/JhonatanTorrigoTorres">
