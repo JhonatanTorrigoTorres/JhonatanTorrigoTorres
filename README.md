@@ -2,7 +2,7 @@ Olá!! Eu sou o Jhonatan
 
 - 💻 Desenvolvedor Full-Stack
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas 1/6
-- 📚 Tenho conhecimento nas tecnologias: HTML, CSS, JS, MySQL e PHP
+- 📚 Desenvolvedor em Desenvolvimento
 
 <div align="center">
   <a href="https://github.com/JhonatanTorrigoTorres">
@@ -16,6 +16,8 @@ Olá!! Eu sou o Jhonatan
   <img align="center" alt="Jhoe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jhoe-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Jhoe-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jhoe-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Jhoe-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   
 </div>
   
