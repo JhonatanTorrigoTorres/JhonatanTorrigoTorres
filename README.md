@@ -1,7 +1,6 @@
 Olá!! Eu sou o Jhonatan
 
 - 💻 Desenvolvedor Full-Stack
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas 1/6
 - 📚 Desenvolvedor em Desenvolvimento
 
 <div align="center">
