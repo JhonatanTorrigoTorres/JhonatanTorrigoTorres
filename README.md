@@ -5,8 +5,10 @@ Olá!! Eu sou o Jhonatan
 
 <div align="center">
   <a href="https://github.com/JhonatanTorrigoTorres">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonatanTorrigoTorres&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanTorrigoTorres&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonatanTorrigoTorres&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanTorrigoTorres&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanTorrigoTorres&repo=repo-name&theme=onedark"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
