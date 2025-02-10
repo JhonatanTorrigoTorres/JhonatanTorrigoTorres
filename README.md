@@ -18,7 +18,7 @@ Olá!! Eu sou o Jhonatan
   <img align="center" alt="Jhoe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Jhoe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Jhoe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Jhoe-MYSQL" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+  <img align="center" alt="Jhoe-MYSQL" height="50" width="60" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img align="center" alt="Jhoe-IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Jhoe-ANGULARr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Jhoe-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
